@@ -21,8 +21,9 @@ import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 /**
- *
- * @author HWONGU
+ * 
+ * @author Henry Joe Wong Urquiza
+ * @mail hwongu@hwongu.net
  */
 @Entity
 @Table(name = "categoria")

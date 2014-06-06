@@ -6,6 +6,11 @@ import net.hwongu.mysql.repository.CategoriaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+/**
+ * 
+ * @author Henry Joe Wong Urquiza
+ * @mail hwongu@hwongu.net
+ */
 @Component("categoriaService")
 public class CategoriaServiceImpl implements CategoriaService{
 

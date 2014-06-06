@@ -6,6 +6,11 @@ import org.springframework.stereotype.Component;
 import net.hwongu.mysql.core.service.ProductoService;
 import net.hwongu.mysql.repository.ProductoRepository;
 
+/**
+ * 
+ * @author Henry Joe Wong Urquiza
+ * @mail hwongu@hwongu.net
+ */
 @Component("productoService")
 public class ProductoServiceImpl implements ProductoService {
 
