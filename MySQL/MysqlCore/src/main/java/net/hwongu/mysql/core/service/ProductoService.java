@@ -10,4 +10,5 @@ import net.hwongu.mysql.repository.ProductoRepository;
  */
 public interface ProductoService extends BaseService<ProductoRepository>{
 
+	void delete(Integer id);
 }
