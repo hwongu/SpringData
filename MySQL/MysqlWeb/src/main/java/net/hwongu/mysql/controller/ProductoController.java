@@ -18,6 +18,11 @@ import net.hwongu.mysql.core.service.ProductoService;
 import net.hwongu.mysql.domain.Categoria;
 import net.hwongu.mysql.domain.Producto;
 
+/**
+ * 
+ * @author Henry Joe Wong Urquiza
+ * @mail hwongu@hwongu.net
+ */
 @ManagedBean
 @SessionScoped
 public class ProductoController implements Serializable {
